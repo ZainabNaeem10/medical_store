@@ -1,4 +1,4 @@
-# Medical Store Management System 💊
+# Medical Store Management System 
 
 A web-based pharmacy management application designed to automate the daily operations of a medical store — covering inventory, billing, supplier and customer management, and report generation.
 
