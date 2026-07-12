@@ -17,10 +17,11 @@ exit();
 ?>
 
 <?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "medical_store";
+$host = "sql111.infinityfree.com";
+$user = "if0_42386171";
+$pass = "YOUR_INFINITYFREE_PASSWOR";
+$db = "if0_42386171_medical";
+
 
 $filename = "backup_" . date("Y-m-d") . ".sql";
 
